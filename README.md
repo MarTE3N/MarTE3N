@@ -1,1 +1,3 @@
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21x3ndtxapjnkr4owr36dz44y&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
